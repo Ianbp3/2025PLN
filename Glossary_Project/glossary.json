@@ -1,0 +1,9709 @@
+[
+  {
+    "term": "coverage",
+    "variants": [
+      "comframe"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "v",
+      "e",
+      "r",
+      "a",
+      "g",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "capspecialty",
+    "variants": [
+      "specialty"
+    ],
+    "tokens": [
+      "c",
+      "a",
+      "p",
+      "s",
+      "p",
+      "e",
+      "c",
+      "i",
+      "a",
+      "l",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "medpro",
+    "variants": [],
+    "tokens": [
+      "m",
+      "e",
+      "d",
+      "p",
+      "r",
+      "o"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "transre",
+    "variants": [
+      "raise",
+      "range",
+      "rare",
+      "transfer"
+    ],
+    "tokens": [
+      "t",
+      "r",
+      "a",
+      "n",
+      "s",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "may",
+    "variants": [
+      "act",
+      "age",
+      "ago",
+      "ajit",
+      "ash",
+      "asia",
+      "back",
+      "base",
+      "basis",
+      "bhhc",
+      "bit",
+      "cane",
+      "care",
+      "cars",
+      "cash",
+      "cnbc",
+      "daily",
+      "data",
+      "date",
+      "day",
+      "doi",
+      "face",
+      "fair",
+      "far",
+      "gaap",
+      "gains",
+      "gas",
+      "gcc",
+      "geico",
+      "grc",
+      "hand",
+      "hard",
+      "iag",
+      "iais",
+      "ics",
+      "inc",
+      "jain",
+      "join",
+      "last",
+      "laws",
+      "made",
+      "main",
+      "make",
+      "male",
+      "many",
+      "mlmic",
+      "naic",
+      "name",
+      "need",
+      "net",
+      "new",
+      "nico",
+      "non",
+      "note",
+      "paid",
+      "part",
+      "past",
+      "pay",
+      "price",
+      "rail",
+      "said",
+      "sale",
+      "sec",
+      "six",
+      "take",
+      "tax",
+      "train",
+      "tria",
+      "unpaid",
+      "vary",
+      "vice",
+      "wall",
+      "war",
+      "way",
+      "ways",
+      "yard"
+    ],
+    "tokens": [
+      "m",
+      "a",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "bnsf",
+    "variants": [
+      "also",
+      "arise",
+      "array",
+      "best",
+      "bhsi",
+      "ciso",
+      "core",
+      "cost",
+      "course",
+      "first",
+      "force",
+      "forms",
+      "great",
+      "greg",
+      "irs",
+      "less",
+      "loss",
+      "must",
+      "north",
+      "old",
+      "omaha",
+      "one",
+      "open",
+      "orsa",
+      "owns",
+      "risk",
+      "rsui",
+      "run",
+      "usaa",
+      "use",
+      "work",
+      "world",
+      "york"
+    ],
+    "tokens": [
+      "b",
+      "n",
+      "s",
+      "f"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "well",
+    "variants": [
+      "abel",
+      "acts",
+      "bhe",
+      "bhln",
+      "bhrg",
+      "ceo",
+      "coal",
+      "com",
+      "due",
+      "end",
+      "eye",
+      "fuel",
+      "full",
+      "get",
+      "ghg",
+      "hcl",
+      "helps",
+      "high",
+      "hope",
+      "huge",
+      "hurt",
+      "job",
+      "key",
+      "let",
+      "local",
+      "much",
+      "per",
+      "rely",
+      "see",
+      "sell",
+      "sold",
+      "thus",
+      "tool",
+      "two",
+      "usli",
+      "yen"
+    ],
+    "tokens": [
+      "w",
+      "e",
+      "l",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "year",
+    "variants": [
+      "board",
+      "good",
+      "guard",
+      "lead",
+      "learn",
+      "share",
+      "star",
+      "third",
+      "turn",
+      "years"
+    ],
+    "tokens": [
+      "y",
+      "e",
+      "a",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "vice chairman",
+    "variants": [],
+    "tokens": [
+      "v",
+      "i",
+      "c",
+      "e",
+      " ",
+      "c",
+      "h",
+      "a",
+      "i",
+      "r",
+      "m",
+      "a",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the operating businesses",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "o",
+      "p",
+      "e",
+      "r",
+      "a",
+      "t",
+      "i",
+      "n",
+      "g",
+      " ",
+      "b",
+      "u",
+      "s",
+      "i",
+      "n",
+      "e",
+      "s",
+      "s",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the end",
+    "variants": [
+      "depend"
+    ],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "e",
+      "n",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "which approximately",
+    "variants": [],
+    "tokens": [
+      "w",
+      "h",
+      "i",
+      "c",
+      "h",
+      " ",
+      "a",
+      "p",
+      "p",
+      "r",
+      "o",
+      "x",
+      "i",
+      "m",
+      "a",
+      "t",
+      "e",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "wide variety",
+    "variants": [],
+    "tokens": [
+      "w",
+      "i",
+      "d",
+      "e",
+      " ",
+      "v",
+      "a",
+      "r",
+      "i",
+      "e",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "among other things",
+    "variants": [],
+    "tokens": [
+      "a",
+      "m",
+      "o",
+      "n",
+      "g",
+      " ",
+      "o",
+      "t",
+      "h",
+      "e",
+      "r",
+      " ",
+      "t",
+      "h",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "are subject",
+    "variants": [
+      "also subject"
+    ],
+    "tokens": [
+      "a",
+      "r",
+      "e",
+      " ",
+      "s",
+      "u",
+      "b",
+      "j",
+      "e",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "admitted basis",
+    "variants": [],
+    "tokens": [
+      "a",
+      "d",
+      "m",
+      "i",
+      "t",
+      "t",
+      "e",
+      "d",
+      " ",
+      "b",
+      "a",
+      "s",
+      "i"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "obtain regulatory approval",
+    "variants": [],
+    "tokens": [
+      "o",
+      "b",
+      "t",
+      "a",
+      "i",
+      "n",
+      " ",
+      "r",
+      "e",
+      "g",
+      "u",
+      "l",
+      "a",
+      "t",
+      "o",
+      "r",
+      "y",
+      " ",
+      "a",
+      "p",
+      "p",
+      "r",
+      "o",
+      "v",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "premium rates",
+    "variants": [],
+    "tokens": [
+      "p",
+      "r",
+      "e",
+      "m",
+      "i",
+      "u",
+      "m",
+      " ",
+      "r",
+      "a",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "admitted insurance",
+    "variants": [],
+    "tokens": [
+      "a",
+      "d",
+      "m",
+      "i",
+      "t",
+      "t",
+      "e",
+      "d",
+      " ",
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "a",
+      "n",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "risk management",
+    "variants": [],
+    "tokens": [
+      "r",
+      "i",
+      "s",
+      "k",
+      " ",
+      "m",
+      "a",
+      "n",
+      "a",
+      "g",
+      "e",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the naic",
+    "variants": [
+      "the sale"
+    ],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "n",
+      "a",
+      "i",
+      "c"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "wide range",
+    "variants": [],
+    "tokens": [
+      "w",
+      "i",
+      "d",
+      "e",
+      " ",
+      "r",
+      "a",
+      "n",
+      "g",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "insurance group",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "a",
+      "n",
+      "c",
+      "e",
+      " ",
+      "g",
+      "r",
+      "o",
+      "u",
+      "p"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the future",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "f",
+      "u",
+      "t",
+      "u",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the treasury",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "t",
+      "r",
+      "e",
+      "a",
+      "s",
+      "u",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the amount",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "a",
+      "m",
+      "o",
+      "u",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "berkshire hathaway reinsurance group",
+    "variants": [],
+    "tokens": [
+      "b",
+      "e",
+      "r",
+      "k",
+      "s",
+      "h",
+      "i",
+      "r",
+      "e",
+      " ",
+      "h",
+      "a",
+      "t",
+      "h",
+      "a",
+      "w",
+      "a",
+      "y",
+      " ",
+      "r",
+      "e",
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "a",
+      "n",
+      "c",
+      "e",
+      " ",
+      "g",
+      "r",
+      "o",
+      "u",
+      "p"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "network",
+    "variants": [
+      "new york"
+    ],
+    "tokens": [
+      "n",
+      "e",
+      "t",
+      "w",
+      "o",
+      "r",
+      "k"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "lesser extent",
+    "variants": [],
+    "tokens": [
+      "l",
+      "e",
+      "s",
+      "s",
+      "e",
+      "r",
+      " ",
+      "e",
+      "x",
+      "t",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "admitted basis and",
+    "variants": [],
+    "tokens": [
+      "a",
+      "d",
+      "m",
+      "i",
+      "t",
+      "t",
+      "e",
+      "d",
+      " ",
+      "b",
+      "a",
+      "s",
+      "i",
+      "s",
+      " ",
+      "a",
+      "n",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "excess and surplus lines",
+    "variants": [],
+    "tokens": [
+      "e",
+      "x",
+      "c",
+      "e",
+      "s",
+      "s",
+      " ",
+      "a",
+      "n",
+      "d",
+      " ",
+      "s",
+      "u",
+      "r",
+      "p",
+      "l",
+      "u",
+      "s",
+      " ",
+      "l",
+      "i",
+      "n",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "admitted and non",
+    "variants": [],
+    "tokens": [
+      "a",
+      "d",
+      "m",
+      "i",
+      "t",
+      "t",
+      "e",
+      "d",
+      " ",
+      "a",
+      "n",
+      "d",
+      " ",
+      "n",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "insurance brokers",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "a",
+      "n",
+      "c",
+      "e",
+      " ",
+      "b",
+      "r",
+      "o",
+      "k",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "property and casualty insurance",
+    "variants": [],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "p",
+      "e",
+      "r",
+      "t",
+      "y",
+      " ",
+      "a",
+      "n",
+      "d",
+      " ",
+      "c",
+      "a",
+      "s",
+      "u",
+      "a",
+      "l",
+      "t",
+      "y",
+      " ",
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "a",
+      "n",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "and its subsidiaries",
+    "variants": [],
+    "tokens": [
+      "a",
+      "n",
+      "d",
+      " ",
+      "i",
+      "t",
+      "s",
+      " ",
+      "s",
+      "u",
+      "b",
+      "s",
+      "i",
+      "d",
+      "i",
+      "a",
+      "r",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "insurance policies",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "a",
+      "n",
+      "c",
+      "e",
+      " ",
+      "p",
+      "o",
+      "l",
+      "i",
+      "c",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "direct basis",
+    "variants": [],
+    "tokens": [
+      "d",
+      "i",
+      "r",
+      "e",
+      "c",
+      "t",
+      " ",
+      "b",
+      "a",
+      "s",
+      "i"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the district",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "d",
+      "i",
+      "s",
+      "t",
+      "r",
+      "i",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "reinsurance business",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "a",
+      "n",
+      "c",
+      "e",
+      " ",
+      "b",
+      "u",
+      "s",
+      "i",
+      "n",
+      "e",
+      "s"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "nico group",
+    "variants": [],
+    "tokens": [
+      "n",
+      "i",
+      "c",
+      "o",
+      " ",
+      "g",
+      "r",
+      "o",
+      "u",
+      "p"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the direct insurer",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "d",
+      "i",
+      "r",
+      "e",
+      "c",
+      "t",
+      " ",
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "share and excess",
+    "variants": [],
+    "tokens": [
+      "s",
+      "h",
+      "a",
+      "r",
+      "e",
+      " ",
+      "a",
+      "n",
+      "d",
+      " ",
+      "e",
+      "x",
+      "c",
+      "e",
+      "s"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the type and volume",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "t",
+      "y",
+      "p",
+      "e",
+      " ",
+      "a",
+      "n",
+      "d",
+      " ",
+      "v",
+      "o",
+      "l",
+      "u",
+      "m",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "business written",
+    "variants": [],
+    "tokens": [
+      "b",
+      "u",
+      "s",
+      "i",
+      "n",
+      "e",
+      "s",
+      "s",
+      " ",
+      "w",
+      "r",
+      "i",
+      "t",
+      "t",
+      "e",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the level",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "l",
+      "e",
+      "v",
+      "e",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "significant portion",
+    "variants": [],
+    "tokens": [
+      "s",
+      "i",
+      "g",
+      "n",
+      "i",
+      "f",
+      "i",
+      "c",
+      "a",
+      "n",
+      "t",
+      " ",
+      "p",
+      "o",
+      "r",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the general",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "g",
+      "e",
+      "n",
+      "e",
+      "r",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "north america",
+    "variants": [],
+    "tokens": [
+      "n",
+      "o",
+      "r",
+      "t",
+      "h",
+      " ",
+      "a",
+      "m",
+      "e",
+      "r",
+      "i",
+      "c",
+      "a"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "rates",
+    "variants": [
+      "dime",
+      "either",
+      "even",
+      "ever",
+      "five",
+      "fixed",
+      "gems",
+      "given",
+      "item",
+      "keep",
+      "kizer",
+      "later",
+      "life",
+      "like",
+      "lines",
+      "miles",
+      "often",
+      "seek",
+      "size",
+      "stay",
+      "system",
+      "term",
+      "terms",
+      "time",
+      "times",
+      "united",
+      "uses",
+      "view",
+      "wide",
+      "write",
+      "writes"
+    ],
+    "tokens": [
+      "r",
+      "a",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "business",
+    "variants": [
+      "businesses"
+    ],
+    "tokens": [
+      "b",
+      "u",
+      "s",
+      "i",
+      "n",
+      "e",
+      "s"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "disruption",
+    "variants": [
+      "description"
+    ],
+    "tokens": [
+      "d",
+      "i",
+      "s",
+      "r",
+      "u",
+      "p",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "berkshire",
+    "variants": [],
+    "tokens": [
+      "b",
+      "e",
+      "r",
+      "k",
+      "s",
+      "h",
+      "i",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "hathaway",
+    "variants": [],
+    "tokens": [
+      "h",
+      "a",
+      "t",
+      "h",
+      "a",
+      "w",
+      "a",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "company",
+    "variants": [
+      "common",
+      "companies",
+      "comply"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "m",
+      "p",
+      "a",
+      "n",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "holdings",
+    "variants": [
+      "ceding",
+      "funding",
+      "holding",
+      "looking",
+      "nothing"
+    ],
+    "tokens": [
+      "h",
+      "o",
+      "l",
+      "d",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "subsidiaries",
+    "variants": [],
+    "tokens": [
+      "s",
+      "u",
+      "b",
+      "s",
+      "i",
+      "d",
+      "i",
+      "a",
+      "r",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "managed",
+    "variants": [
+      "enacted",
+      "engage",
+      "engaged"
+    ],
+    "tokens": [
+      "m",
+      "a",
+      "n",
+      "a",
+      "g",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "numerous",
+    "variants": [],
+    "tokens": [
+      "n",
+      "u",
+      "m",
+      "e",
+      "r",
+      "o",
+      "u"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "adverse",
+    "variants": [
+      "diverse"
+    ],
+    "tokens": [
+      "a",
+      "d",
+      "v",
+      "e",
+      "r",
+      "s",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "activities",
+    "variants": [
+      "activity",
+      "facilities",
+      "utilities"
+    ],
+    "tokens": [
+      "a",
+      "c",
+      "t",
+      "i",
+      "v",
+      "i",
+      "t",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "important",
+    "variants": [],
+    "tokens": [
+      "i",
+      "m",
+      "p",
+      "o",
+      "r",
+      "t",
+      "a",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "insurance",
+    "variants": [
+      "reinsurance"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "a",
+      "n",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "conducted",
+    "variants": [
+      "conduct",
+      "conducts"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "d",
+      "u",
+      "c",
+      "t",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "primary",
+    "variants": [
+      "friday",
+      "primarily",
+      "privacy",
+      "private"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "i",
+      "m",
+      "a",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "foreign",
+    "variants": [
+      "freight",
+      "light",
+      "rights"
+    ],
+    "tokens": [
+      "f",
+      "o",
+      "r",
+      "e",
+      "i",
+      "g",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "transportation",
+    "variants": [],
+    "tokens": [
+      "t",
+      "r",
+      "a",
+      "n",
+      "s",
+      "p",
+      "o",
+      "r",
+      "t",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "group",
+    "variants": [
+      "erode",
+      "four",
+      "front",
+      "goods",
+      "groups",
+      "grown",
+      "growth",
+      "route",
+      "wrote"
+    ],
+    "tokens": [
+      "g",
+      "r",
+      "o",
+      "u",
+      "p"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "ability",
+    "variants": [
+      "quality",
+      "utility",
+      "utilize"
+    ],
+    "tokens": [
+      "a",
+      "b",
+      "i",
+      "l",
+      "i",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "general",
+    "variants": [
+      "emerge",
+      "energy",
+      "every"
+    ],
+    "tokens": [
+      "g",
+      "e",
+      "n",
+      "e",
+      "r",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "generation",
+    "variants": [
+      "generated",
+      "generating",
+      "operation"
+    ],
+    "tokens": [
+      "g",
+      "e",
+      "n",
+      "e",
+      "r",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "distribution",
+    "variants": [],
+    "tokens": [
+      "d",
+      "i",
+      "s",
+      "t",
+      "r",
+      "i",
+      "b",
+      "u",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "operations",
+    "variants": [
+      "coverages",
+      "operate",
+      "operated",
+      "operates",
+      "operating",
+      "updates"
+    ],
+    "tokens": [
+      "o",
+      "p",
+      "e",
+      "r",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "various",
+    "variants": [
+      "market",
+      "markets",
+      "party",
+      "safety",
+      "variety"
+    ],
+    "tokens": [
+      "v",
+      "a",
+      "r",
+      "i",
+      "o",
+      "u"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "services",
+    "variants": [
+      "prices",
+      "service"
+    ],
+    "tokens": [
+      "s",
+      "e",
+      "r",
+      "v",
+      "i",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "domiciled",
+    "variants": [
+      "domicile"
+    ],
+    "tokens": [
+      "d",
+      "o",
+      "m",
+      "i",
+      "c",
+      "i",
+      "l",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "state",
+    "variants": [
+      "mistake",
+      "relate",
+      "sales",
+      "shares",
+      "since",
+      "sixty",
+      "small",
+      "south",
+      "staff",
+      "stage",
+      "states",
+      "still",
+      "street",
+      "taken",
+      "taxes",
+      "type",
+      "usage"
+    ],
+    "tokens": [
+      "s",
+      "t",
+      "a",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "corporate",
+    "variants": [
+      "corporation"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "r",
+      "p",
+      "o",
+      "r",
+      "a",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "nebraska",
+    "variants": [],
+    "tokens": [
+      "n",
+      "e",
+      "b",
+      "r",
+      "a",
+      "s",
+      "k",
+      "a"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "unusually",
+    "variants": [
+      "usually"
+    ],
+    "tokens": [
+      "u",
+      "n",
+      "u",
+      "s",
+      "u",
+      "a",
+      "l",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "decentralized",
+    "variants": [
+      "centralized"
+    ],
+    "tokens": [
+      "d",
+      "e",
+      "c",
+      "e",
+      "n",
+      "t",
+      "r",
+      "a",
+      "l",
+      "i",
+      "z",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "chairman",
+    "variants": [],
+    "tokens": [
+      "c",
+      "h",
+      "a",
+      "i",
+      "r",
+      "m",
+      "a",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "cyber",
+    "variants": [
+      "canes",
+      "chains",
+      "chief",
+      "come",
+      "copies",
+      "cover",
+      "sheet",
+      "think",
+      "three"
+    ],
+    "tokens": [
+      "c",
+      "y",
+      "b",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "executive",
+    "variants": [],
+    "tokens": [
+      "e",
+      "x",
+      "e",
+      "c",
+      "u",
+      "t",
+      "i",
+      "v",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "offer",
+    "variants": [
+      "offered",
+      "offers",
+      "officer",
+      "offices"
+    ],
+    "tokens": [
+      "o",
+      "f",
+      "f",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "participate",
+    "variants": [],
+    "tokens": [
+      "p",
+      "a",
+      "r",
+      "t",
+      "i",
+      "c",
+      "i",
+      "p",
+      "a",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "responsible",
+    "variants": [
+      "response"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "s",
+      "p",
+      "o",
+      "n",
+      "s",
+      "i",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "significant",
+    "variants": [
+      "significantly"
+    ],
+    "tokens": [
+      "s",
+      "i",
+      "g",
+      "n",
+      "i",
+      "f",
+      "i",
+      "c",
+      "a",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "capital",
+    "variants": [],
+    "tokens": [
+      "c",
+      "a",
+      "p",
+      "i",
+      "t",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "allocation",
+    "variants": [
+      "allocate",
+      "association"
+    ],
+    "tokens": [
+      "a",
+      "l",
+      "l",
+      "o",
+      "c",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "decisions",
+    "variants": [
+      "emissions"
+    ],
+    "tokens": [
+      "d",
+      "e",
+      "c",
+      "i",
+      "s",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "investment",
+    "variants": [
+      "investments",
+      "reinvestment"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "v",
+      "e",
+      "s",
+      "t",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "senior",
+    "variants": [
+      "center",
+      "monitor",
+      "period",
+      "section",
+      "seldom"
+    ],
+    "tokens": [
+      "s",
+      "e",
+      "n",
+      "i",
+      "o",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "management",
+    "variants": [],
+    "tokens": [
+      "m",
+      "a",
+      "n",
+      "a",
+      "g",
+      "e",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "establishing",
+    "variants": [
+      "establish"
+    ],
+    "tokens": [
+      "e",
+      "s",
+      "t",
+      "a",
+      "b",
+      "l",
+      "i",
+      "s",
+      "h",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "monitoring",
+    "variants": [],
+    "tokens": [
+      "m",
+      "o",
+      "n",
+      "i",
+      "t",
+      "o",
+      "r",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "governance",
+    "variants": [
+      "tolerance"
+    ],
+    "tokens": [
+      "g",
+      "o",
+      "v",
+      "e",
+      "r",
+      "n",
+      "a",
+      "n",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "practices",
+    "variants": [
+      "parties"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "a",
+      "c",
+      "t",
+      "i",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "including",
+    "variants": [
+      "include",
+      "included",
+      "includes"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "c",
+      "l",
+      "u",
+      "d",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "effect",
+    "variants": [
+      "effects",
+      "efforts",
+      "reports"
+    ],
+    "tokens": [
+      "e",
+      "f",
+      "f",
+      "e",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "related",
+    "variants": [
+      "headed",
+      "located",
+      "reduced",
+      "regulate",
+      "regulated",
+      "relating",
+      "reported"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "l",
+      "a",
+      "t",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "losses",
+    "variants": [
+      "assess",
+      "assets",
+      "assumed",
+      "assumes",
+      "insured",
+      "insurer",
+      "insurers",
+      "issued",
+      "issues",
+      "sums",
+      "values"
+    ],
+    "tokens": [
+      "l",
+      "o",
+      "s",
+      "s",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "needed",
+    "variants": [
+      "deemed",
+      "intended",
+      "needs",
+      "never"
+    ],
+    "tokens": [
+      "n",
+      "e",
+      "e",
+      "d",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "direct",
+    "variants": [
+      "directly",
+      "directors"
+    ],
+    "tokens": [
+      "d",
+      "i",
+      "r",
+      "e",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "appropriate",
+    "variants": [],
+    "tokens": [
+      "a",
+      "p",
+      "p",
+      "r",
+      "o",
+      "p",
+      "r",
+      "i",
+      "a",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "things",
+    "variants": [
+      "ethics",
+      "methods",
+      "others",
+      "topics"
+    ],
+    "tokens": [
+      "t",
+      "h",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "long",
+    "variants": [
+      "almost",
+      "along",
+      "among",
+      "amount",
+      "amounts",
+      "money",
+      "paying",
+      "timing",
+      "upon"
+    ],
+    "tokens": [
+      "l",
+      "o",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "compliance",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "m",
+      "p",
+      "l",
+      "i",
+      "a",
+      "n",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "government",
+    "variants": [
+      "governmental",
+      "governments"
+    ],
+    "tokens": [
+      "g",
+      "o",
+      "v",
+      "e",
+      "r",
+      "n",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "regulatory",
+    "variants": [
+      "regulation",
+      "regulations",
+      "regulators"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "g",
+      "u",
+      "l",
+      "a",
+      "t",
+      "o",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "provide",
+    "variants": [
+      "profits",
+      "provided",
+      "provider",
+      "providers",
+      "provides",
+      "providing"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "v",
+      "i",
+      "d",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "standards",
+    "variants": [
+      "standard"
+    ],
+    "tokens": [
+      "s",
+      "t",
+      "a",
+      "n",
+      "d",
+      "a",
+      "r",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "legal",
+    "variants": [
+      "global",
+      "least",
+      "level",
+      "levels",
+      "retail",
+      "total"
+    ],
+    "tokens": [
+      "l",
+      "e",
+      "g",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "behavior",
+    "variants": [],
+    "tokens": [
+      "b",
+      "e",
+      "h",
+      "a",
+      "v",
+      "i",
+      "o",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "employees",
+    "variants": [
+      "employed"
+    ],
+    "tokens": [
+      "e",
+      "m",
+      "p",
+      "l",
+      "o",
+      "y",
+      "e",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "human",
+    "variants": [
+      "japan"
+    ],
+    "tokens": [
+      "h",
+      "u",
+      "m",
+      "a",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "resources",
+    "variants": [
+      "source"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "s",
+      "o",
+      "u",
+      "r",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "competent",
+    "variants": [
+      "component"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "m",
+      "p",
+      "e",
+      "t",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "approximately",
+    "variants": [],
+    "tokens": [
+      "a",
+      "p",
+      "p",
+      "r",
+      "o",
+      "x",
+      "i",
+      "m",
+      "a",
+      "t",
+      "e",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "people",
+    "variants": [],
+    "tokens": [
+      "p",
+      "e",
+      "o",
+      "p",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "worldwide",
+    "variants": [],
+    "tokens": [
+      "w",
+      "o",
+      "r",
+      "l",
+      "d",
+      "w",
+      "i",
+      "d",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "consistent",
+    "variants": [
+      "consistently"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "s",
+      "i",
+      "s",
+      "t",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "specific",
+    "variants": [
+      "pacific"
+    ],
+    "tokens": [
+      "s",
+      "p",
+      "e",
+      "c",
+      "i",
+      "f",
+      "i",
+      "c"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "policies",
+    "variants": [
+      "policy"
+    ],
+    "tokens": [
+      "p",
+      "o",
+      "l",
+      "i",
+      "c",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "concerning",
+    "variants": [
+      "covering"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "c",
+      "e",
+      "r",
+      "n",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "retention",
+    "variants": [
+      "protection",
+      "reduction"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "t",
+      "e",
+      "n",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "personnel",
+    "variants": [
+      "personal"
+    ],
+    "tokens": [
+      "p",
+      "e",
+      "r",
+      "s",
+      "o",
+      "n",
+      "n",
+      "e",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "written",
+    "variants": [
+      "obtain",
+      "within",
+      "without",
+      "writing"
+    ],
+    "tokens": [
+      "w",
+      "r",
+      "i",
+      "t",
+      "t",
+      "e",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "organizations",
+    "variants": [],
+    "tokens": [
+      "o",
+      "r",
+      "g",
+      "a",
+      "n",
+      "i",
+      "z",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "variations",
+    "variants": [],
+    "tokens": [
+      "v",
+      "a",
+      "r",
+      "i",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "future",
+    "variants": [
+      "failure",
+      "natural",
+      "nature",
+      "value"
+    ],
+    "tokens": [
+      "f",
+      "u",
+      "t",
+      "u",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "address",
+    "variants": [
+      "access",
+      "across"
+    ],
+    "tokens": [
+      "a",
+      "d",
+      "d",
+      "r",
+      "e",
+      "s"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "maintain",
+    "variants": [
+      "maintained",
+      "maintaining"
+    ],
+    "tokens": [
+      "m",
+      "a",
+      "i",
+      "n",
+      "t",
+      "a",
+      "i",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "affecting",
+    "variants": [
+      "offering"
+    ],
+    "tokens": [
+      "a",
+      "f",
+      "f",
+      "e",
+      "c",
+      "t",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "competitive",
+    "variants": [
+      "competition",
+      "competitors"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "m",
+      "p",
+      "e",
+      "t",
+      "i",
+      "t",
+      "i",
+      "v",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "compensation",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "m",
+      "p",
+      "e",
+      "n",
+      "s",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "health",
+    "variants": [
+      "really"
+    ],
+    "tokens": [
+      "h",
+      "e",
+      "a",
+      "l",
+      "t",
+      "h"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "benefits",
+    "variants": [
+      "benefit"
+    ],
+    "tokens": [
+      "b",
+      "e",
+      "n",
+      "e",
+      "f",
+      "i",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "recognize",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "c",
+      "o",
+      "g",
+      "n",
+      "i",
+      "z",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "performance",
+    "variants": [],
+    "tokens": [
+      "p",
+      "e",
+      "r",
+      "f",
+      "o",
+      "r",
+      "m",
+      "a",
+      "n",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "program",
+    "variants": [
+      "programs",
+      "progress"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "g",
+      "r",
+      "a",
+      "m"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "opportunities",
+    "variants": [],
+    "tokens": [
+      "o",
+      "p",
+      "p",
+      "o",
+      "r",
+      "t",
+      "u",
+      "n",
+      "i",
+      "t",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "identify",
+    "variants": [],
+    "tokens": [
+      "i",
+      "d",
+      "e",
+      "n",
+      "t",
+      "i",
+      "f",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "qualified",
+    "variants": [],
+    "tokens": [
+      "q",
+      "u",
+      "a",
+      "l",
+      "i",
+      "f",
+      "i",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "combined",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "m",
+      "b",
+      "i",
+      "n",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "workforce",
+    "variants": [],
+    "tokens": [
+      "w",
+      "o",
+      "r",
+      "k",
+      "f",
+      "o",
+      "r",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "based",
+    "variants": [
+      "armed",
+      "asked",
+      "called",
+      "earned",
+      "leases"
+    ],
+    "tokens": [
+      "b",
+      "a",
+      "s",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "guidelines",
+    "variants": [],
+    "tokens": [
+      "g",
+      "u",
+      "i",
+      "d",
+      "e",
+      "l",
+      "i",
+      "n",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "available",
+    "variants": [
+      "unavailable"
+    ],
+    "tokens": [
+      "a",
+      "v",
+      "a",
+      "i",
+      "l",
+      "a",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "domestic",
+    "variants": [],
+    "tokens": [
+      "d",
+      "o",
+      "m",
+      "e",
+      "s",
+      "t",
+      "i",
+      "c"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "property",
+    "variants": [
+      "properly",
+      "properties",
+      "protect"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "p",
+      "e",
+      "r",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "casualty",
+    "variants": [],
+    "tokens": [
+      "c",
+      "a",
+      "s",
+      "u",
+      "a",
+      "l",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "risks",
+    "variants": [
+      "brooks",
+      "costs",
+      "looks",
+      "tracks"
+    ],
+    "tokens": [
+      "r",
+      "i",
+      "s",
+      "k"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "equities",
+    "variants": [
+      "entities",
+      "penalties"
+    ],
+    "tokens": [
+      "e",
+      "q",
+      "u",
+      "i",
+      "t",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "required",
+    "variants": [
+      "received",
+      "recorded",
+      "referred"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "q",
+      "u",
+      "i",
+      "r",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "subject",
+    "variants": [],
+    "tokens": [
+      "s",
+      "u",
+      "b",
+      "j",
+      "e",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "liability",
+    "variants": [
+      "inability",
+      "liabilities",
+      "liquidity",
+      "reliability"
+    ],
+    "tokens": [
+      "l",
+      "i",
+      "a",
+      "b",
+      "i",
+      "l",
+      "i",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "incident",
+    "variants": [
+      "accident"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "c",
+      "i",
+      "d",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "financial",
+    "variants": [],
+    "tokens": [
+      "f",
+      "i",
+      "n",
+      "a",
+      "n",
+      "c",
+      "i",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "events",
+    "variants": [
+      "agents",
+      "debt",
+      "event",
+      "eventual",
+      "except",
+      "expect",
+      "extent",
+      "present"
+    ],
+    "tokens": [
+      "e",
+      "v",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "find",
+    "variants": [
+      "decline",
+      "defined",
+      "designed",
+      "desired"
+    ],
+    "tokens": [
+      "f",
+      "i",
+      "n",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "reinsurers",
+    "variants": [
+      "reinsurer"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "generally",
+    "variants": [],
+    "tokens": [
+      "g",
+      "e",
+      "n",
+      "e",
+      "r",
+      "a",
+      "l",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "oversight",
+    "variants": [],
+    "tokens": [
+      "o",
+      "v",
+      "e",
+      "r",
+      "s",
+      "i",
+      "g",
+      "h",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "throughout",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "r",
+      "o",
+      "u",
+      "g",
+      "h",
+      "o",
+      "u",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "virtually",
+    "variants": [],
+    "tokens": [
+      "v",
+      "i",
+      "r",
+      "t",
+      "u",
+      "a",
+      "l",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "brokers",
+    "variants": [
+      "barriers",
+      "carrie"
+    ],
+    "tokens": [
+      "b",
+      "r",
+      "o",
+      "k",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "industry",
+    "variants": [
+      "injury"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "d",
+      "u",
+      "s",
+      "t",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "licensed",
+    "variants": [
+      "licensing"
+    ],
+    "tokens": [
+      "l",
+      "i",
+      "c",
+      "e",
+      "n",
+      "s",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "number",
+    "variants": [],
+    "tokens": [
+      "n",
+      "u",
+      "m",
+      "b",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "known",
+    "variants": [
+      "flows",
+      "know"
+    ],
+    "tokens": [
+      "k",
+      "n",
+      "o",
+      "w",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "strength",
+    "variants": [],
+    "tokens": [
+      "s",
+      "t",
+      "r",
+      "e",
+      "n",
+      "g",
+      "t",
+      "h"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "earnings",
+    "variants": [
+      "ratings",
+      "savings",
+      "sidings"
+    ],
+    "tokens": [
+      "e",
+      "a",
+      "r",
+      "n",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "underwriting",
+    "variants": [
+      "underwrite",
+      "underwriters",
+      "underwrites"
+    ],
+    "tokens": [
+      "u",
+      "n",
+      "d",
+      "e",
+      "r",
+      "w",
+      "r",
+      "i",
+      "t",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "conditions",
+    "variants": [
+      "condition"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "d",
+      "i",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "admitted",
+    "variants": [
+      "adopted",
+      "limited"
+    ],
+    "tokens": [
+      "a",
+      "d",
+      "m",
+      "i",
+      "t",
+      "t",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "focus",
+    "variants": [
+      "funds",
+      "incur",
+      "stocks",
+      "tools"
+    ],
+    "tokens": [
+      "f",
+      "o",
+      "c",
+      "u"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "solvency",
+    "variants": [],
+    "tokens": [
+      "s",
+      "o",
+      "l",
+      "v",
+      "e",
+      "n",
+      "c",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "otherwise",
+    "variants": [],
+    "tokens": [
+      "o",
+      "t",
+      "h",
+      "e",
+      "r",
+      "w",
+      "i",
+      "s",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "policyholder",
+    "variants": [
+      "policyholders"
+    ],
+    "tokens": [
+      "p",
+      "o",
+      "l",
+      "i",
+      "c",
+      "y",
+      "h",
+      "o",
+      "l",
+      "d",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "interests",
+    "variants": [
+      "internet"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "t",
+      "e",
+      "r",
+      "e",
+      "s",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "minimum",
+    "variants": [],
+    "tokens": [
+      "m",
+      "i",
+      "n",
+      "i",
+      "m",
+      "u",
+      "m"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "authority",
+    "variants": [
+      "authorities"
+    ],
+    "tokens": [
+      "a",
+      "u",
+      "t",
+      "h",
+      "o",
+      "r",
+      "i",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "payments",
+    "variants": [
+      "payment"
+    ],
+    "tokens": [
+      "p",
+      "a",
+      "y",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "shareholders",
+    "variants": [
+      "shareholder"
+    ],
+    "tokens": [
+      "s",
+      "h",
+      "a",
+      "r",
+      "e",
+      "h",
+      "o",
+      "l",
+      "d",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "dividends",
+    "variants": [
+      "dividend"
+    ],
+    "tokens": [
+      "d",
+      "i",
+      "v",
+      "i",
+      "d",
+      "e",
+      "n",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "transactions",
+    "variants": [],
+    "tokens": [
+      "t",
+      "r",
+      "a",
+      "n",
+      "s",
+      "a",
+      "c",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "affiliates",
+    "variants": [],
+    "tokens": [
+      "a",
+      "f",
+      "f",
+      "i",
+      "l",
+      "i",
+      "a",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "approach",
+    "variants": [
+      "approval"
+    ],
+    "tokens": [
+      "a",
+      "p",
+      "p",
+      "r",
+      "o",
+      "a",
+      "c",
+      "h"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "premiums",
+    "variants": [
+      "predict",
+      "premium"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "e",
+      "m",
+      "i",
+      "u",
+      "m"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "excess",
+    "variants": [
+      "exceed",
+      "expenses",
+      "expose",
+      "process",
+      "success"
+    ],
+    "tokens": [
+      "e",
+      "x",
+      "c",
+      "e",
+      "s"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "surplus",
+    "variants": [
+      "supply",
+      "surprise"
+    ],
+    "tokens": [
+      "s",
+      "u",
+      "r",
+      "p",
+      "l",
+      "u"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "result",
+    "variants": [
+      "aspects",
+      "report",
+      "respect",
+      "restrict"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "s",
+      "u",
+      "l",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "normally",
+    "variants": [],
+    "tokens": [
+      "n",
+      "o",
+      "r",
+      "m",
+      "a",
+      "l",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "contracts",
+    "variants": [
+      "contract"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "t",
+      "r",
+      "a",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "national",
+    "variants": [],
+    "tokens": [
+      "n",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "adopts",
+    "variants": [],
+    "tokens": [
+      "a",
+      "d",
+      "o",
+      "p",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "accounting",
+    "variants": [],
+    "tokens": [
+      "a",
+      "c",
+      "c",
+      "o",
+      "u",
+      "n",
+      "t",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "procedures",
+    "variants": [
+      "processes"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "c",
+      "e",
+      "d",
+      "u",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "annual",
+    "variants": [
+      "annuity"
+    ],
+    "tokens": [
+      "a",
+      "n",
+      "n",
+      "u",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "statutory",
+    "variants": [],
+    "tokens": [
+      "s",
+      "t",
+      "a",
+      "t",
+      "u",
+      "t",
+      "o",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "addition",
+    "variants": [
+      "action",
+      "additional",
+      "position"
+    ],
+    "tokens": [
+      "a",
+      "d",
+      "d",
+      "i",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "principles",
+    "variants": [
+      "principal"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "i",
+      "n",
+      "c",
+      "i",
+      "p",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "model",
+    "variants": [
+      "lower",
+      "today"
+    ],
+    "tokens": [
+      "m",
+      "o",
+      "d",
+      "e",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "meeting",
+    "variants": [
+      "dealing",
+      "zealand"
+    ],
+    "tokens": [
+      "m",
+      "e",
+      "e",
+      "t",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "reporting",
+    "variants": [
+      "regarding",
+      "resulting"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "p",
+      "o",
+      "r",
+      "t",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "requirements",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "q",
+      "u",
+      "i",
+      "r",
+      "e",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "however",
+    "variants": [
+      "forever"
+    ],
+    "tokens": [
+      "h",
+      "o",
+      "w",
+      "e",
+      "v",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "climate",
+    "variants": [
+      "estimated",
+      "estimates",
+      "mitigate",
+      "ultimate"
+    ],
+    "tokens": [
+      "c",
+      "l",
+      "i",
+      "m",
+      "a",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "matters",
+    "variants": [
+      "better",
+      "factors",
+      "managers",
+      "manner",
+      "rather"
+    ],
+    "tokens": [
+      "m",
+      "a",
+      "t",
+      "t",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "implement",
+    "variants": [
+      "implemented"
+    ],
+    "tokens": [
+      "i",
+      "m",
+      "p",
+      "l",
+      "e",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "individuals",
+    "variants": [
+      "individual"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "d",
+      "i",
+      "v",
+      "i",
+      "d",
+      "u",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "differ",
+    "variants": [],
+    "tokens": [
+      "d",
+      "i",
+      "f",
+      "f",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "international",
+    "variants": [
+      "internationally"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "t",
+      "e",
+      "r",
+      "n",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "developing",
+    "variants": [
+      "develop"
+    ],
+    "tokens": [
+      "d",
+      "e",
+      "v",
+      "e",
+      "l",
+      "o",
+      "p",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "framework",
+    "variants": [],
+    "tokens": [
+      "f",
+      "r",
+      "a",
+      "m",
+      "e",
+      "w",
+      "o",
+      "r",
+      "k"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "large",
+    "variants": [
+      "change",
+      "charged",
+      "damage",
+      "labor",
+      "larger",
+      "largest",
+      "manage",
+      "warren",
+      "wayne"
+    ],
+    "tokens": [
+      "l",
+      "a",
+      "r",
+      "g",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "quota",
+    "variants": [
+      "auto",
+      "multi",
+      "multiple"
+    ],
+    "tokens": [
+      "q",
+      "u",
+      "o",
+      "t",
+      "a"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "supervisor",
+    "variants": [
+      "supervision",
+      "supervisory"
+    ],
+    "tokens": [
+      "s",
+      "u",
+      "p",
+      "e",
+      "r",
+      "v",
+      "i",
+      "s",
+      "o",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "adequacy",
+    "variants": [],
+    "tokens": [
+      "a",
+      "d",
+      "e",
+      "q",
+      "u",
+      "a",
+      "c",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "actions",
+    "variants": [
+      "active",
+      "captive",
+      "massive",
+      "receive"
+    ],
+    "tokens": [
+      "a",
+      "c",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "december",
+    "variants": [],
+    "tokens": [
+      "d",
+      "e",
+      "c",
+      "e",
+      "m",
+      "b",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "departments",
+    "variants": [
+      "department"
+    ],
+    "tokens": [
+      "d",
+      "e",
+      "p",
+      "a",
+      "r",
+      "t",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "certain",
+    "variants": [
+      "bertie"
+    ],
+    "tokens": [
+      "c",
+      "e",
+      "r",
+      "t",
+      "a",
+      "i",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "colleges",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "l",
+      "l",
+      "e",
+      "g",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "equity",
+    "variants": [
+      "reduce",
+      "require",
+      "requires"
+    ],
+    "tokens": [
+      "e",
+      "q",
+      "u",
+      "i",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "assessment",
+    "variants": [
+      "assessments"
+    ],
+    "tokens": [
+      "a",
+      "s",
+      "s",
+      "e",
+      "s",
+      "s",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "calculation",
+    "variants": [],
+    "tokens": [
+      "c",
+      "a",
+      "l",
+      "c",
+      "u",
+      "l",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "likely",
+    "variants": [
+      "highly",
+      "simply",
+      "wisely"
+    ],
+    "tokens": [
+      "l",
+      "i",
+      "k",
+      "e",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "aggregate",
+    "variants": [
+      "aggregation"
+    ],
+    "tokens": [
+      "a",
+      "g",
+      "g",
+      "r",
+      "e",
+      "g",
+      "a",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "method",
+    "variants": [],
+    "tokens": [
+      "m",
+      "e",
+      "t",
+      "h",
+      "o",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "exceptionally",
+    "variants": [],
+    "tokens": [
+      "e",
+      "x",
+      "c",
+      "e",
+      "p",
+      "t",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "billion",
+    "variants": [
+      "million"
+    ],
+    "tokens": [
+      "b",
+      "i",
+      "l",
+      "l",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "major",
+    "variants": [
+      "factor",
+      "majority",
+      "poor"
+    ],
+    "tokens": [
+      "m",
+      "a",
+      "j",
+      "o",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "claims",
+    "variants": [],
+    "tokens": [
+      "c",
+      "l",
+      "a",
+      "i",
+      "m"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "terrorism",
+    "variants": [
+      "terrorist"
+    ],
+    "tokens": [
+      "t",
+      "e",
+      "r",
+      "r",
+      "o",
+      "r",
+      "i",
+      "s",
+      "m"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "treasury",
+    "variants": [
+      "treaty"
+    ],
+    "tokens": [
+      "t",
+      "r",
+      "e",
+      "a",
+      "s",
+      "u",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "federal",
+    "variants": [
+      "medical",
+      "several"
+    ],
+    "tokens": [
+      "f",
+      "e",
+      "d",
+      "e",
+      "r",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "certified",
+    "variants": [],
+    "tokens": [
+      "c",
+      "e",
+      "r",
+      "t",
+      "i",
+      "f",
+      "i",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "occurred",
+    "variants": [
+      "incurred"
+    ],
+    "tokens": [
+      "o",
+      "c",
+      "c",
+      "u",
+      "r",
+      "r",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "commercial",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "m",
+      "m",
+      "e",
+      "r",
+      "c",
+      "i",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "family",
+    "variants": [
+      "apply",
+      "deploy"
+    ],
+    "tokens": [
+      "f",
+      "a",
+      "m",
+      "i",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "calendar",
+    "variants": [],
+    "tokens": [
+      "c",
+      "a",
+      "l",
+      "e",
+      "n",
+      "d",
+      "a",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "eligible",
+    "variants": [],
+    "tokens": [
+      "e",
+      "l",
+      "i",
+      "g",
+      "i",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "professional",
+    "variants": [
+      "professionals"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "f",
+      "e",
+      "s",
+      "s",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "satisfaction",
+    "variants": [],
+    "tokens": [
+      "s",
+      "a",
+      "t",
+      "i",
+      "s",
+      "f",
+      "a",
+      "c",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "deductible",
+    "variants": [],
+    "tokens": [
+      "d",
+      "e",
+      "d",
+      "u",
+      "c",
+      "t",
+      "i",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "immediately",
+    "variants": [],
+    "tokens": [
+      "i",
+      "m",
+      "m",
+      "e",
+      "d",
+      "i",
+      "a",
+      "t",
+      "e",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "expected",
+    "variants": [
+      "affected",
+      "exposed"
+    ],
+    "tokens": [
+      "e",
+      "x",
+      "p",
+      "e",
+      "c",
+      "t",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "audit",
+    "variants": [
+      "limit",
+      "limits"
+    ],
+    "tokens": [
+      "a",
+      "u",
+      "d",
+      "i",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "country",
+    "variants": [
+      "countries"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "u",
+      "n",
+      "t",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "although",
+    "variants": [],
+    "tokens": [
+      "a",
+      "l",
+      "t",
+      "h",
+      "o",
+      "u",
+      "g",
+      "h"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "float",
+    "variants": [
+      "close",
+      "impose"
+    ],
+    "tokens": [
+      "f",
+      "l",
+      "o",
+      "a",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "branches",
+    "variants": [],
+    "tokens": [
+      "b",
+      "r",
+      "a",
+      "n",
+      "c",
+      "h",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "germany",
+    "variants": [],
+    "tokens": [
+      "g",
+      "e",
+      "r",
+      "m",
+      "a",
+      "n",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "australia",
+    "variants": [],
+    "tokens": [
+      "a",
+      "u",
+      "s",
+      "t",
+      "r",
+      "a",
+      "l",
+      "i",
+      "a"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "jurisdictions",
+    "variants": [],
+    "tokens": [
+      "j",
+      "u",
+      "r",
+      "i",
+      "s",
+      "d",
+      "i",
+      "c",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "records",
+    "variants": [
+      "record"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "c",
+      "o",
+      "r",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "initiatives",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "i",
+      "t",
+      "i",
+      "a",
+      "t",
+      "i",
+      "v",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "impact",
+    "variants": [
+      "impair"
+    ],
+    "tokens": [
+      "i",
+      "m",
+      "p",
+      "a",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "potential",
+    "variants": [],
+    "tokens": [
+      "p",
+      "o",
+      "t",
+      "e",
+      "n",
+      "t",
+      "i",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "could",
+    "variants": [
+      "would"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "u",
+      "l",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "economic",
+    "variants": [
+      "economy"
+    ],
+    "tokens": [
+      "e",
+      "c",
+      "o",
+      "n",
+      "o",
+      "m",
+      "i",
+      "c"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "following",
+    "variants": [
+      "follows"
+    ],
+    "tokens": [
+      "f",
+      "o",
+      "l",
+      "l",
+      "o",
+      "w",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "alleghany",
+    "variants": [],
+    "tokens": [
+      "a",
+      "l",
+      "l",
+      "e",
+      "g",
+      "h",
+      "a",
+      "n",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "retroactive",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "t",
+      "r",
+      "o",
+      "a",
+      "c",
+      "t",
+      "i",
+      "v",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "periodic",
+    "variants": [
+      "periods"
+    ],
+    "tokens": [
+      "p",
+      "e",
+      "r",
+      "i",
+      "o",
+      "d",
+      "i",
+      "c"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "products",
+    "variants": [
+      "produce",
+      "produced",
+      "producing",
+      "product"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "d",
+      "u",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "profit",
+    "variants": [
+      "credit"
+    ],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "f",
+      "i",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "inadequately",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "a",
+      "d",
+      "e",
+      "q",
+      "u",
+      "a",
+      "t",
+      "e",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "priced",
+    "variants": [],
+    "tokens": [
+      "p",
+      "r",
+      "i",
+      "c",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "income",
+    "variants": [
+      "become"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "c",
+      "o",
+      "m",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "information",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "f",
+      "o",
+      "r",
+      "m",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "passenger",
+    "variants": [],
+    "tokens": [
+      "p",
+      "a",
+      "s",
+      "s",
+      "e",
+      "n",
+      "g",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "automobile",
+    "variants": [],
+    "tokens": [
+      "a",
+      "u",
+      "t",
+      "o",
+      "m",
+      "o",
+      "b",
+      "i",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "district",
+    "variants": [],
+    "tokens": [
+      "d",
+      "i",
+      "s",
+      "t",
+      "r",
+      "i",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "columbia",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "l",
+      "u",
+      "m",
+      "b",
+      "i",
+      "a"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "vehicles",
+    "variants": [],
+    "tokens": [
+      "v",
+      "e",
+      "h",
+      "i",
+      "c",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "marketing",
+    "variants": [
+      "marketed"
+    ],
+    "tokens": [
+      "m",
+      "a",
+      "r",
+      "k",
+      "e",
+      "t",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "lesser",
+    "variants": [],
+    "tokens": [
+      "l",
+      "e",
+      "s",
+      "s",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "agency",
+    "variants": [],
+    "tokens": [
+      "a",
+      "g",
+      "e",
+      "n",
+      "c",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "customers",
+    "variants": [
+      "customer"
+    ],
+    "tokens": [
+      "c",
+      "u",
+      "s",
+      "t",
+      "o",
+      "m",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "extraordinary",
+    "variants": [],
+    "tokens": [
+      "e",
+      "x",
+      "t",
+      "r",
+      "a",
+      "o",
+      "r",
+      "d",
+      "i",
+      "n",
+      "a",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "weather",
+    "variants": [
+      "another",
+      "whether"
+    ],
+    "tokens": [
+      "w",
+      "e",
+      "a",
+      "t",
+      "h",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "frequency",
+    "variants": [],
+    "tokens": [
+      "f",
+      "r",
+      "e",
+      "q",
+      "u",
+      "e",
+      "n",
+      "c",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "enable",
+    "variants": [
+      "payable",
+      "sensible"
+    ],
+    "tokens": [
+      "e",
+      "n",
+      "a",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "considered",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "s",
+      "i",
+      "d",
+      "e",
+      "r",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "material",
+    "variants": [
+      "internal",
+      "materially",
+      "materials"
+    ],
+    "tokens": [
+      "m",
+      "a",
+      "t",
+      "e",
+      "r",
+      "i",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "collection",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "l",
+      "l",
+      "e",
+      "c",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "independently",
+    "variants": [
+      "independent"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "d",
+      "e",
+      "p",
+      "e",
+      "n",
+      "d",
+      "e",
+      "n",
+      "t",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "indemnity",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "d",
+      "e",
+      "m",
+      "n",
+      "i",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "nationwide",
+    "variants": [],
+    "tokens": [
+      "n",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n",
+      "w",
+      "i",
+      "d",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "workers",
+    "variants": [
+      "owners"
+    ],
+    "tokens": [
+      "w",
+      "o",
+      "r",
+      "k",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "dollar",
+    "variants": [],
+    "tokens": [
+      "d",
+      "o",
+      "l",
+      "l",
+      "a",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "canada",
+    "variants": [
+      "cannot"
+    ],
+    "tokens": [
+      "c",
+      "a",
+      "n",
+      "a",
+      "d",
+      "a"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "europe",
+    "variants": [],
+    "tokens": [
+      "e",
+      "u",
+      "r",
+      "o",
+      "p",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "wholesale",
+    "variants": [],
+    "tokens": [
+      "w",
+      "h",
+      "o",
+      "l",
+      "e",
+      "s",
+      "a",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "managing",
+    "variants": [
+      "changing"
+    ],
+    "tokens": [
+      "m",
+      "a",
+      "n",
+      "a",
+      "g",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "healthcare",
+    "variants": [],
+    "tokens": [
+      "h",
+      "e",
+      "a",
+      "l",
+      "t",
+      "h",
+      "c",
+      "a",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "solutions",
+    "variants": [],
+    "tokens": [
+      "s",
+      "o",
+      "l",
+      "u",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "hospitals",
+    "variants": [],
+    "tokens": [
+      "h",
+      "o",
+      "s",
+      "p",
+      "i",
+      "t",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "additionally",
+    "variants": [],
+    "tokens": [
+      "a",
+      "d",
+      "d",
+      "i",
+      "t",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "pennsylvania",
+    "variants": [],
+    "tokens": [
+      "p",
+      "e",
+      "n",
+      "n",
+      "s",
+      "y",
+      "l",
+      "v",
+      "a",
+      "n",
+      "i",
+      "a"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "stamford",
+    "variants": [],
+    "tokens": [
+      "s",
+      "t",
+      "a",
+      "m",
+      "f",
+      "o",
+      "r",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "connecticut",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "n",
+      "e",
+      "c",
+      "t",
+      "i",
+      "c",
+      "u",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "classified",
+    "variants": [],
+    "tokens": [
+      "c",
+      "l",
+      "a",
+      "s",
+      "s",
+      "i",
+      "f",
+      "i",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "facultative",
+    "variants": [],
+    "tokens": [
+      "f",
+      "a",
+      "c",
+      "u",
+      "l",
+      "t",
+      "a",
+      "t",
+      "i",
+      "v",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "portion",
+    "variants": [],
+    "tokens": [
+      "p",
+      "o",
+      "r",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "underlying",
+    "variants": [],
+    "tokens": [
+      "u",
+      "n",
+      "d",
+      "e",
+      "r",
+      "l",
+      "y",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "proportional",
+    "variants": [],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "p",
+      "o",
+      "r",
+      "t",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "indemnification",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "d",
+      "e",
+      "m",
+      "n",
+      "i",
+      "f",
+      "i",
+      "c",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "agreed",
+    "variants": [
+      "already",
+      "degree"
+    ],
+    "tokens": [
+      "a",
+      "g",
+      "r",
+      "e",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "volume",
+    "variants": [],
+    "tokens": [
+      "v",
+      "o",
+      "l",
+      "u",
+      "m",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "dependent",
+    "variants": [],
+    "tokens": [
+      "d",
+      "e",
+      "p",
+      "e",
+      "n",
+      "d",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "receives",
+    "variants": [
+      "perceived"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "c",
+      "e",
+      "i",
+      "v",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "particularly",
+    "variants": [],
+    "tokens": [
+      "p",
+      "a",
+      "r",
+      "t",
+      "i",
+      "c",
+      "u",
+      "l",
+      "a",
+      "r",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "traditional",
+    "variants": [],
+    "tokens": [
+      "t",
+      "r",
+      "a",
+      "d",
+      "i",
+      "t",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "catastrophe",
+    "variants": [],
+    "tokens": [
+      "c",
+      "a",
+      "t",
+      "a",
+      "s",
+      "t",
+      "r",
+      "o",
+      "p",
+      "h",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "changes",
+    "variants": [
+      "changed",
+      "exchange"
+    ],
+    "tokens": [
+      "c",
+      "h",
+      "a",
+      "n",
+      "g",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "unique",
+    "variants": [
+      "units"
+    ],
+    "tokens": [
+      "u",
+      "n",
+      "i",
+      "q",
+      "u",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "agreement",
+    "variants": [],
+    "tokens": [
+      "a",
+      "g",
+      "r",
+      "e",
+      "e",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "america",
+    "variants": [
+      "american",
+      "americans"
+    ],
+    "tokens": [
+      "a",
+      "m",
+      "e",
+      "r",
+      "i",
+      "c",
+      "a"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "public",
+    "variants": [],
+    "tokens": [
+      "p",
+      "u",
+      "b",
+      "l",
+      "i",
+      "c"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "critical",
+    "variants": [],
+    "tokens": [
+      "c",
+      "r",
+      "i",
+      "t",
+      "i",
+      "c",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "exposures",
+    "variants": [],
+    "tokens": [
+      "e",
+      "x",
+      "p",
+      "o",
+      "s",
+      "u",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "similar",
+    "variants": [],
+    "tokens": [
+      "s",
+      "i",
+      "m",
+      "i",
+      "l",
+      "a",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "arising",
+    "variants": [
+      "existing",
+      "growing",
+      "varying"
+    ],
+    "tokens": [
+      "a",
+      "r",
+      "i",
+      "s",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "asbestos",
+    "variants": [],
+    "tokens": [
+      "a",
+      "s",
+      "b",
+      "e",
+      "s",
+      "t",
+      "o"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "environmental",
+    "variants": [],
+    "tokens": [
+      "e",
+      "n",
+      "v",
+      "i",
+      "r",
+      "o",
+      "n",
+      "m",
+      "e",
+      "n",
+      "t",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "decades",
+    "variants": [
+      "decade"
+    ],
+    "tokens": [
+      "d",
+      "e",
+      "c",
+      "a",
+      "d",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "results",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "s",
+      "u",
+      "l",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "obligations",
+    "variants": [],
+    "tokens": [
+      "o",
+      "b",
+      "l",
+      "i",
+      "g",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "upfront",
+    "variants": [],
+    "tokens": [
+      "u",
+      "p",
+      "f",
+      "r",
+      "o",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "ebitda",
+    "variants": [],
+    "tokens": [
+      "e",
+      "b",
+      "i",
+      "t",
+      "d",
+      "a"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "itochu",
+    "variants": [],
+    "tokens": [
+      "i",
+      "t",
+      "o",
+      "c",
+      "h",
+      "u"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "berkshire hathaway",
+    "variants": [],
+    "tokens": [
+      "b",
+      "e",
+      "r",
+      "k",
+      "s",
+      "h",
+      "i",
+      "r",
+      "e",
+      " ",
+      "h",
+      "a",
+      "t",
+      "h",
+      "a",
+      "w",
+      "a",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the company",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "c",
+      "o",
+      "m",
+      "p",
+      "a",
+      "n",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "tax payments",
+    "variants": [],
+    "tokens": [
+      "t",
+      "a",
+      "x",
+      " ",
+      "p",
+      "a",
+      "y",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "our non",
+    "variants": [
+      "our yen"
+    ],
+    "tokens": [
+      "o",
+      "u",
+      "r",
+      " ",
+      "n",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "our country",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "r",
+      " ",
+      "c",
+      "o",
+      "u",
+      "n",
+      "t",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "write this",
+    "variants": [],
+    "tokens": [
+      "w",
+      "r",
+      "i",
+      "t",
+      "e",
+      " ",
+      "t",
+      "h",
+      "i"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "over time",
+    "variants": [],
+    "tokens": [
+      "o",
+      "v",
+      "e",
+      "r",
+      " ",
+      "t",
+      "i",
+      "m",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "this year",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "i",
+      "s",
+      " ",
+      "y",
+      "e",
+      "a",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "controlled",
+    "variants": [
+      "control"
+    ],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "t",
+      "r",
+      "o",
+      "l",
+      "l",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "ownership",
+    "variants": [],
+    "tokens": [
+      "o",
+      "w",
+      "n",
+      "e",
+      "r",
+      "s",
+      "h",
+      "i",
+      "p"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "currency",
+    "variants": [
+      "current",
+      "currently"
+    ],
+    "tokens": [
+      "c",
+      "u",
+      "r",
+      "r",
+      "e",
+      "n",
+      "c",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "denominated",
+    "variants": [],
+    "tokens": [
+      "d",
+      "e",
+      "n",
+      "o",
+      "m",
+      "i",
+      "n",
+      "a",
+      "t",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "charlie",
+    "variants": [],
+    "tokens": [
+      "c",
+      "h",
+      "a",
+      "r",
+      "l",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "book",
+    "variants": [
+      "allowed",
+      "looked"
+    ],
+    "tokens": [
+      "b",
+      "o",
+      "o",
+      "k"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "northern",
+    "variants": [],
+    "tokens": [
+      "n",
+      "o",
+      "r",
+      "t",
+      "h",
+      "e",
+      "r",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "blinking",
+    "variants": [
+      "planning"
+    ],
+    "tokens": [
+      "b",
+      "l",
+      "i",
+      "n",
+      "k",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "forward",
+    "variants": [],
+    "tokens": [
+      "f",
+      "o",
+      "r",
+      "w",
+      "a",
+      "r",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "totaled",
+    "variants": [],
+    "tokens": [
+      "t",
+      "o",
+      "t",
+      "a",
+      "l",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "january",
+    "variants": [],
+    "tokens": [
+      "j",
+      "a",
+      "n",
+      "u",
+      "a",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "suggested",
+    "variants": [],
+    "tokens": [
+      "s",
+      "u",
+      "g",
+      "g",
+      "e",
+      "s",
+      "t",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "visualize",
+    "variants": [],
+    "tokens": [
+      "v",
+      "i",
+      "s",
+      "u",
+      "a",
+      "l",
+      "i",
+      "z",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "yearend",
+    "variants": [],
+    "tokens": [
+      "y",
+      "e",
+      "a",
+      "r",
+      "e",
+      "n",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "support",
+    "variants": [
+      "short"
+    ],
+    "tokens": [
+      "s",
+      "u",
+      "p",
+      "p",
+      "o",
+      "r",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "marketable",
+    "variants": [],
+    "tokens": [
+      "m",
+      "a",
+      "r",
+      "k",
+      "e",
+      "t",
+      "a",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "purchased",
+    "variants": [],
+    "tokens": [
+      "p",
+      "u",
+      "r",
+      "c",
+      "h",
+      "a",
+      "s",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "percentage",
+    "variants": [],
+    "tokens": [
+      "p",
+      "e",
+      "r",
+      "c",
+      "e",
+      "n",
+      "t",
+      "a",
+      "g",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "outstanding",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "t",
+      "s",
+      "t",
+      "a",
+      "n",
+      "d",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "occasionally",
+    "variants": [],
+    "tokens": [
+      "o",
+      "c",
+      "c",
+      "a",
+      "s",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "sometimes",
+    "variants": [],
+    "tokens": [
+      "s",
+      "o",
+      "m",
+      "e",
+      "t",
+      "i",
+      "m",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "believe",
+    "variants": [],
+    "tokens": [
+      "b",
+      "e",
+      "l",
+      "i",
+      "e",
+      "v",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "despite",
+    "variants": [],
+    "tokens": [
+      "d",
+      "e",
+      "s",
+      "p",
+      "i",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "remains",
+    "variants": [
+      "reasons"
+    ],
+    "tokens": [
+      "r",
+      "e",
+      "m",
+      "a",
+      "i",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "increased",
+    "variants": [
+      "increase",
+      "increases"
+    ],
+    "tokens": [
+      "i",
+      "n",
+      "c",
+      "r",
+      "e",
+      "a",
+      "s",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "somewhat",
+    "variants": [],
+    "tokens": [
+      "s",
+      "o",
+      "m",
+      "e",
+      "w",
+      "h",
+      "a",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "portfolio",
+    "variants": [],
+    "tokens": [
+      "p",
+      "o",
+      "r",
+      "t",
+      "f",
+      "o",
+      "l",
+      "i",
+      "o"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "substantial",
+    "variants": [],
+    "tokens": [
+      "s",
+      "u",
+      "b",
+      "s",
+      "t",
+      "a",
+      "n",
+      "t",
+      "i",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "history",
+    "variants": [],
+    "tokens": [
+      "h",
+      "i",
+      "s",
+      "t",
+      "o",
+      "r",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "runaway",
+    "variants": [
+      "railway"
+    ],
+    "tokens": [
+      "r",
+      "u",
+      "n",
+      "a",
+      "w",
+      "a",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "talents",
+    "variants": [],
+    "tokens": [
+      "t",
+      "a",
+      "l",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "instability",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "s",
+      "t",
+      "a",
+      "b",
+      "i",
+      "l",
+      "i",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "skills",
+    "variants": [],
+    "tokens": [
+      "s",
+      "k",
+      "i",
+      "l",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "continue",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "t",
+      "i",
+      "n",
+      "u",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "deployment",
+    "variants": [],
+    "tokens": [
+      "d",
+      "e",
+      "p",
+      "l",
+      "o",
+      "y",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "output",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "t",
+      "p",
+      "u",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "systems",
+    "variants": [],
+    "tokens": [
+      "s",
+      "y",
+      "s",
+      "t",
+      "e",
+      "m"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "exhibit",
+    "variants": [],
+    "tokens": [
+      "e",
+      "x",
+      "h",
+      "i",
+      "b",
+      "i",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "borrowed",
+    "variants": [],
+    "tokens": [
+      "b",
+      "o",
+      "r",
+      "r",
+      "o",
+      "w",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "concurrently",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "c",
+      "u",
+      "r",
+      "r",
+      "e",
+      "n",
+      "t",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "always",
+    "variants": [],
+    "tokens": [
+      "a",
+      "l",
+      "w",
+      "a",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "advantage",
+    "variants": [
+      "advantages"
+    ],
+    "tokens": [
+      "a",
+      "d",
+      "v",
+      "a",
+      "n",
+      "t",
+      "a",
+      "g",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "brutal",
+    "variants": [],
+    "tokens": [
+      "b",
+      "r",
+      "u",
+      "t",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "beyond",
+    "variants": [],
+    "tokens": [
+      "b",
+      "e",
+      "y",
+      "o",
+      "n",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "sustained",
+    "variants": [],
+    "tokens": [
+      "s",
+      "u",
+      "s",
+      "t",
+      "a",
+      "i",
+      "n",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "equipment",
+    "variants": [],
+    "tokens": [
+      "e",
+      "q",
+      "u",
+      "i",
+      "p",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "consequently",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "s",
+      "e",
+      "q",
+      "u",
+      "e",
+      "n",
+      "t",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "quickly",
+    "variants": [],
+    "tokens": [
+      "q",
+      "u",
+      "i",
+      "c",
+      "k",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "surprises",
+    "variants": [],
+    "tokens": [
+      "s",
+      "u",
+      "r",
+      "p",
+      "r",
+      "i",
+      "s",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "sufficient",
+    "variants": [],
+    "tokens": [
+      "s",
+      "u",
+      "f",
+      "f",
+      "i",
+      "c",
+      "i",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "wildfires",
+    "variants": [],
+    "tokens": [
+      "w",
+      "i",
+      "l",
+      "d",
+      "f",
+      "i",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "litigation",
+    "variants": [
+      "limitations"
+    ],
+    "tokens": [
+      "l",
+      "i",
+      "t",
+      "i",
+      "g",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "hurricanes",
+    "variants": [],
+    "tokens": [
+      "h",
+      "u",
+      "r",
+      "r",
+      "i",
+      "c",
+      "a",
+      "n",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "intelligent",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "t",
+      "e",
+      "l",
+      "l",
+      "i",
+      "g",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "optimists",
+    "variants": [],
+    "tokens": [
+      "o",
+      "p",
+      "t",
+      "i",
+      "m",
+      "i",
+      "s",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "extreme",
+    "variants": [],
+    "tokens": [
+      "e",
+      "x",
+      "t",
+      "r",
+      "e",
+      "m",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "meanwhile",
+    "variants": [],
+    "tokens": [
+      "m",
+      "e",
+      "a",
+      "n",
+      "w",
+      "h",
+      "i",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "reasonable",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "a",
+      "s",
+      "o",
+      "n",
+      "a",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "japanese",
+    "variants": [],
+    "tokens": [
+      "j",
+      "a",
+      "p",
+      "a",
+      "n",
+      "e",
+      "s",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "successfully",
+    "variants": [],
+    "tokens": [
+      "s",
+      "u",
+      "c",
+      "c",
+      "e",
+      "s",
+      "s",
+      "f",
+      "u",
+      "l",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "involving",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "v",
+      "o",
+      "l",
+      "v",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "regularly",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "g",
+      "u",
+      "l",
+      "a",
+      "r",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "investors",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "v",
+      "e",
+      "s",
+      "t",
+      "o",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "gathering",
+    "variants": [],
+    "tokens": [
+      "g",
+      "a",
+      "t",
+      "h",
+      "e",
+      "r",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "questions",
+    "variants": [],
+    "tokens": [
+      "q",
+      "u",
+      "e",
+      "s",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "friends",
+    "variants": [],
+    "tokens": [
+      "f",
+      "r",
+      "i",
+      "e",
+      "n",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "running",
+    "variants": [],
+    "tokens": [
+      "r",
+      "u",
+      "n",
+      "n",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "saturday",
+    "variants": [],
+    "tokens": [
+      "s",
+      "a",
+      "t",
+      "u",
+      "r",
+      "d",
+      "a",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "together",
+    "variants": [],
+    "tokens": [
+      "t",
+      "o",
+      "g",
+      "e",
+      "t",
+      "h",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "children",
+    "variants": [],
+    "tokens": [
+      "c",
+      "h",
+      "i",
+      "l",
+      "d",
+      "r",
+      "e",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "becky",
+    "variants": [],
+    "tokens": [
+      "b",
+      "e",
+      "c",
+      "k",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "presently",
+    "variants": [],
+    "tokens": [
+      "p",
+      "r",
+      "e",
+      "s",
+      "e",
+      "n",
+      "t",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "affect",
+    "variants": [
+      "buffett"
+    ],
+    "tokens": [
+      "a",
+      "f",
+      "f",
+      "e",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "business operations",
+    "variants": [],
+    "tokens": [
+      "b",
+      "u",
+      "s",
+      "i",
+      "n",
+      "e",
+      "s",
+      "s",
+      " ",
+      "o",
+      "p",
+      "e",
+      "r",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "share these risks with",
+    "variants": [],
+    "tokens": [
+      "s",
+      "h",
+      "a",
+      "r",
+      "e",
+      " ",
+      "t",
+      "h",
+      "e",
+      "s",
+      "e",
+      " ",
+      "r",
+      "i",
+      "s",
+      "k",
+      "s",
+      " ",
+      "w",
+      "i",
+      "t",
+      "h"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "all businesses",
+    "variants": [
+      "our businesses"
+    ],
+    "tokens": [
+      "a",
+      "l",
+      "l",
+      " ",
+      "b",
+      "u",
+      "s",
+      "i",
+      "n",
+      "e",
+      "s",
+      "s",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "significant disruption",
+    "variants": [],
+    "tokens": [
+      "s",
+      "i",
+      "g",
+      "n",
+      "i",
+      "f",
+      "i",
+      "c",
+      "a",
+      "n",
+      "t",
+      " ",
+      "d",
+      "i",
+      "s",
+      "r",
+      "u",
+      "p",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "financial condition and",
+    "variants": [],
+    "tokens": [
+      "f",
+      "i",
+      "n",
+      "a",
+      "n",
+      "c",
+      "i",
+      "a",
+      "l",
+      " ",
+      "c",
+      "o",
+      "n",
+      "d",
+      "i",
+      "t",
+      "i",
+      "o",
+      "n",
+      " ",
+      "a",
+      "n",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "adverse effect",
+    "variants": [],
+    "tokens": [
+      "a",
+      "d",
+      "v",
+      "e",
+      "r",
+      "s",
+      "e",
+      " ",
+      "e",
+      "f",
+      "f",
+      "e",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "our results",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "r",
+      " ",
+      "r",
+      "e",
+      "s",
+      "u",
+      "l",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "material adverse effect",
+    "variants": [],
+    "tokens": [
+      "m",
+      "a",
+      "t",
+      "e",
+      "r",
+      "i",
+      "a",
+      "l",
+      " ",
+      "a",
+      "d",
+      "v",
+      "e",
+      "r",
+      "s",
+      "e",
+      " ",
+      "e",
+      "f",
+      "f",
+      "e",
+      "c",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the values",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "v",
+      "a",
+      "l",
+      "u",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "and elsewhere",
+    "variants": [],
+    "tokens": [
+      "a",
+      "n",
+      "d",
+      " ",
+      "e",
+      "l",
+      "s",
+      "e",
+      "w",
+      "h",
+      "e",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "operating results",
+    "variants": [],
+    "tokens": [
+      "o",
+      "p",
+      "e",
+      "r",
+      "a",
+      "t",
+      "i",
+      "n",
+      "g",
+      " ",
+      "r",
+      "e",
+      "s",
+      "u",
+      "l",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "insurance operations",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "a",
+      "n",
+      "c",
+      "e",
+      " ",
+      "o",
+      "p",
+      "e",
+      "r",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "our operations",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "r",
+      " ",
+      "o",
+      "p",
+      "e",
+      "r",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "replacement for",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "p",
+      "l",
+      "a",
+      "c",
+      "e",
+      "m",
+      "e",
+      "n",
+      "t",
+      " ",
+      "f",
+      "o",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "need qualified and competent",
+    "variants": [],
+    "tokens": [
+      "n",
+      "e",
+      "e",
+      "d",
+      " ",
+      "q",
+      "u",
+      "a",
+      "l",
+      "i",
+      "f",
+      "i",
+      "e",
+      "d",
+      " ",
+      "a",
+      "n",
+      "d",
+      " ",
+      "c",
+      "o",
+      "m",
+      "p",
+      "e",
+      "t",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "our insurance subsidiaries",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "r",
+      " ",
+      "i",
+      "n",
+      "s",
+      "u",
+      "r",
+      "a",
+      "n",
+      "c",
+      "e",
+      " ",
+      "s",
+      "u",
+      "b",
+      "s",
+      "i",
+      "d",
+      "i",
+      "a",
+      "r",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "our ability",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "r",
+      " ",
+      "a",
+      "b",
+      "i",
+      "l",
+      "i",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "which they operate",
+    "variants": [],
+    "tokens": [
+      "w",
+      "h",
+      "i",
+      "c",
+      "h",
+      " ",
+      "t",
+      "h",
+      "e",
+      "y",
+      " ",
+      "o",
+      "p",
+      "e",
+      "r",
+      "a",
+      "t",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "competitive advantages",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "m",
+      "p",
+      "e",
+      "t",
+      "i",
+      "t",
+      "i",
+      "v",
+      "e",
+      " ",
+      "a",
+      "d",
+      "v",
+      "a",
+      "n",
+      "t",
+      "a",
+      "g",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "our operating businesses are",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "r",
+      " ",
+      "o",
+      "p",
+      "e",
+      "r",
+      "a",
+      "t",
+      "i",
+      "n",
+      "g",
+      " ",
+      "b",
+      "u",
+      "s",
+      "i",
+      "n",
+      "e",
+      "s",
+      "s",
+      "e",
+      "s",
+      " ",
+      "a",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "our utilities and energy",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "r",
+      " ",
+      "u",
+      "t",
+      "i",
+      "l",
+      "i",
+      "t",
+      "i",
+      "e",
+      "s",
+      " ",
+      "a",
+      "n",
+      "d",
+      " ",
+      "e",
+      "n",
+      "e",
+      "r",
+      "g",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the regulation",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "r",
+      "e",
+      "g",
+      "u",
+      "l",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "could have",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "u",
+      "l",
+      "d",
+      " ",
+      "h",
+      "a",
+      "v",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the frequency",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "f",
+      "r",
+      "e",
+      "q",
+      "u",
+      "e",
+      "n",
+      "c",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "produce losses affecting our",
+    "variants": [],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "d",
+      "u",
+      "c",
+      "e",
+      " ",
+      "l",
+      "o",
+      "s",
+      "s",
+      "e",
+      "s",
+      " ",
+      "a",
+      "f",
+      "f",
+      "e",
+      "c",
+      "t",
+      "i",
+      "n",
+      "g",
+      " ",
+      "o",
+      "u",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the jurisdictions",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "j",
+      "u",
+      "r",
+      "i",
+      "s",
+      "d",
+      "i",
+      "c",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "these businesses",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      "s",
+      "e",
+      " ",
+      "b",
+      "u",
+      "s",
+      "i",
+      "n",
+      "e",
+      "s",
+      "s",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "our regulated energy subsidiaries",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "r",
+      " ",
+      "r",
+      "e",
+      "g",
+      "u",
+      "l",
+      "a",
+      "t",
+      "e",
+      "d",
+      " ",
+      "e",
+      "n",
+      "e",
+      "r",
+      "g",
+      "y",
+      " ",
+      "s",
+      "u",
+      "b",
+      "s",
+      "i",
+      "d",
+      "i",
+      "a",
+      "r",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "each business group",
+    "variants": [],
+    "tokens": [
+      "e",
+      "a",
+      "c",
+      "h",
+      " ",
+      "b",
+      "u",
+      "s",
+      "i",
+      "n",
+      "e",
+      "s",
+      "s",
+      " ",
+      "g",
+      "r",
+      "o",
+      "u",
+      "p"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "senior management",
+    "variants": [],
+    "tokens": [
+      "s",
+      "e",
+      "n",
+      "i",
+      "o",
+      "r",
+      " ",
+      "m",
+      "a",
+      "n",
+      "a",
+      "g",
+      "e",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "berkshire and its business",
+    "variants": [],
+    "tokens": [
+      "b",
+      "e",
+      "r",
+      "k",
+      "s",
+      "h",
+      "i",
+      "r",
+      "e",
+      " ",
+      "a",
+      "n",
+      "d",
+      " ",
+      "i",
+      "t",
+      "s",
+      " ",
+      "b",
+      "u",
+      "s",
+      "i",
+      "n",
+      "e",
+      "s"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "the audit committee",
+    "variants": [],
+    "tokens": [
+      "t",
+      "h",
+      "e",
+      " ",
+      "a",
+      "u",
+      "d",
+      "i",
+      "t",
+      " ",
+      "c",
+      "o",
+      "m",
+      "m",
+      "i",
+      "t",
+      "t",
+      "e",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "route miles",
+    "variants": [],
+    "tokens": [
+      "r",
+      "o",
+      "u",
+      "t",
+      "e",
+      " ",
+      "m",
+      "i",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "uncertainties",
+    "variants": [],
+    "tokens": [
+      "u",
+      "n",
+      "c",
+      "e",
+      "r",
+      "t",
+      "a",
+      "i",
+      "n",
+      "t",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "described",
+    "variants": [],
+    "tokens": [
+      "d",
+      "e",
+      "s",
+      "c",
+      "r",
+      "i",
+      "b",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "attacks",
+    "variants": [
+      "attack",
+      "track"
+    ],
+    "tokens": [
+      "a",
+      "t",
+      "t",
+      "a",
+      "c",
+      "k"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "adversely",
+    "variants": [],
+    "tokens": [
+      "a",
+      "d",
+      "v",
+      "e",
+      "r",
+      "s",
+      "e",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "cybersecurity",
+    "variants": [],
+    "tokens": [
+      "c",
+      "y",
+      "b",
+      "e",
+      "r",
+      "s",
+      "e",
+      "c",
+      "u",
+      "r",
+      "i",
+      "t",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "reputational",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "p",
+      "u",
+      "t",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "technology",
+    "variants": [],
+    "tokens": [
+      "t",
+      "e",
+      "c",
+      "h",
+      "n",
+      "o",
+      "l",
+      "o",
+      "g",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "unauthorized",
+    "variants": [],
+    "tokens": [
+      "u",
+      "n",
+      "a",
+      "u",
+      "t",
+      "h",
+      "o",
+      "r",
+      "i",
+      "z",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "interruptions",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "t",
+      "e",
+      "r",
+      "r",
+      "u",
+      "p",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "failures",
+    "variants": [],
+    "tokens": [
+      "f",
+      "a",
+      "i",
+      "l",
+      "u",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "securities",
+    "variants": [
+      "security"
+    ],
+    "tokens": [
+      "s",
+      "e",
+      "c",
+      "u",
+      "r",
+      "i",
+      "t",
+      "i",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "operational",
+    "variants": [],
+    "tokens": [
+      "o",
+      "p",
+      "e",
+      "r",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "remediation",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "m",
+      "e",
+      "d",
+      "i",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "disaster",
+    "variants": [],
+    "tokens": [
+      "d",
+      "i",
+      "s",
+      "a",
+      "s",
+      "t",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "social",
+    "variants": [],
+    "tokens": [
+      "s",
+      "o",
+      "c",
+      "i",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "suppliers",
+    "variants": [],
+    "tokens": [
+      "s",
+      "u",
+      "p",
+      "p",
+      "l",
+      "i",
+      "e",
+      "r"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "revenues",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "v",
+      "e",
+      "n",
+      "u",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "consolidated",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "s",
+      "o",
+      "l",
+      "i",
+      "d",
+      "a",
+      "t",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "furthermore",
+    "variants": [],
+    "tokens": [
+      "f",
+      "u",
+      "r",
+      "t",
+      "h",
+      "e",
+      "r",
+      "m",
+      "o",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "geopolitical",
+    "variants": [],
+    "tokens": [
+      "g",
+      "e",
+      "o",
+      "p",
+      "o",
+      "l",
+      "i",
+      "t",
+      "i",
+      "c",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "elsewhere",
+    "variants": [],
+    "tokens": [
+      "e",
+      "l",
+      "s",
+      "e",
+      "w",
+      "h",
+      "e",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "responses",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "s",
+      "p",
+      "o",
+      "n",
+      "s",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "restricted",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "s",
+      "t",
+      "r",
+      "i",
+      "c",
+      "t",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "physical",
+    "variants": [],
+    "tokens": [
+      "p",
+      "h",
+      "y",
+      "s",
+      "i",
+      "c",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "negatively",
+    "variants": [],
+    "tokens": [
+      "n",
+      "e",
+      "g",
+      "a",
+      "t",
+      "i",
+      "v",
+      "e",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "replacement",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "p",
+      "l",
+      "a",
+      "c",
+      "e",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "disruptions",
+    "variants": [],
+    "tokens": [
+      "d",
+      "i",
+      "s",
+      "r",
+      "u",
+      "p",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "strengthening",
+    "variants": [],
+    "tokens": [
+      "s",
+      "t",
+      "r",
+      "e",
+      "n",
+      "g",
+      "t",
+      "h",
+      "e",
+      "n",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "accordingly",
+    "variants": [],
+    "tokens": [
+      "a",
+      "c",
+      "c",
+      "o",
+      "r",
+      "d",
+      "i",
+      "n",
+      "g",
+      "l",
+      "y"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "protecting",
+    "variants": [],
+    "tokens": [
+      "p",
+      "r",
+      "o",
+      "t",
+      "e",
+      "c",
+      "t",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "railroad",
+    "variants": [],
+    "tokens": [
+      "r",
+      "a",
+      "i",
+      "l",
+      "r",
+      "o",
+      "a",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "structures",
+    "variants": [],
+    "tokens": [
+      "s",
+      "t",
+      "r",
+      "u",
+      "c",
+      "t",
+      "u",
+      "r",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "epidemics",
+    "variants": [
+      "pandemics"
+    ],
+    "tokens": [
+      "e",
+      "p",
+      "i",
+      "d",
+      "e",
+      "m",
+      "i",
+      "c"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "outbreaks",
+    "variants": [],
+    "tokens": [
+      "o",
+      "u",
+      "t",
+      "b",
+      "r",
+      "e",
+      "a",
+      "k"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "restrictions",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "s",
+      "t",
+      "r",
+      "i",
+      "c",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "legislation",
+    "variants": [
+      "legislative"
+    ],
+    "tokens": [
+      "l",
+      "e",
+      "g",
+      "i",
+      "s",
+      "l",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "influence",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "f",
+      "l",
+      "u",
+      "e",
+      "n",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "single",
+    "variants": [],
+    "tokens": [
+      "s",
+      "i",
+      "n",
+      "g",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "possible",
+    "variants": [],
+    "tokens": [
+      "p",
+      "o",
+      "s",
+      "s",
+      "i",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "exclusions",
+    "variants": [],
+    "tokens": [
+      "e",
+      "x",
+      "c",
+      "l",
+      "u",
+      "s",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "associated",
+    "variants": [],
+    "tokens": [
+      "a",
+      "s",
+      "s",
+      "o",
+      "c",
+      "i",
+      "a",
+      "t",
+      "e",
+      "d"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "balance",
+    "variants": [],
+    "tokens": [
+      "b",
+      "a",
+      "l",
+      "a",
+      "n",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "judicial",
+    "variants": [],
+    "tokens": [
+      "j",
+      "u",
+      "d",
+      "i",
+      "c",
+      "i",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "types",
+    "variants": [],
+    "tokens": [
+      "t",
+      "y",
+      "p",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "complying",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "m",
+      "p",
+      "l",
+      "y",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "ongoing",
+    "variants": [],
+    "tokens": [
+      "o",
+      "n",
+      "g",
+      "o",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "hazardous",
+    "variants": [],
+    "tokens": [
+      "h",
+      "a",
+      "z",
+      "a",
+      "r",
+      "d",
+      "o",
+      "u"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "determine",
+    "variants": [],
+    "tokens": [
+      "d",
+      "e",
+      "t",
+      "e",
+      "r",
+      "m",
+      "i",
+      "n",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "improvements",
+    "variants": [],
+    "tokens": [
+      "i",
+      "m",
+      "p",
+      "r",
+      "o",
+      "v",
+      "e",
+      "m",
+      "e",
+      "n",
+      "t"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "acquiring",
+    "variants": [],
+    "tokens": [
+      "a",
+      "c",
+      "q",
+      "u",
+      "i",
+      "r",
+      "i",
+      "n",
+      "g"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "transmission",
+    "variants": [],
+    "tokens": [
+      "t",
+      "r",
+      "a",
+      "n",
+      "s",
+      "m",
+      "i",
+      "s",
+      "s",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "recoverable",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "c",
+      "o",
+      "v",
+      "e",
+      "r",
+      "a",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "conjunction",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "n",
+      "j",
+      "u",
+      "n",
+      "c",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "overall",
+    "variants": [],
+    "tokens": [
+      "o",
+      "v",
+      "e",
+      "r",
+      "a",
+      "l",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "committee",
+    "variants": [],
+    "tokens": [
+      "c",
+      "o",
+      "m",
+      "m",
+      "i",
+      "t",
+      "t",
+      "e",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "reviews",
+    "variants": [],
+    "tokens": [
+      "r",
+      "e",
+      "v",
+      "i",
+      "e",
+      "w"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "locomotives",
+    "variants": [
+      "locomotive"
+    ],
+    "tokens": [
+      "l",
+      "o",
+      "c",
+      "o",
+      "m",
+      "o",
+      "t",
+      "i",
+      "v",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "maintenance",
+    "variants": [],
+    "tokens": [
+      "m",
+      "a",
+      "i",
+      "n",
+      "t",
+      "e",
+      "n",
+      "a",
+      "n",
+      "c",
+      "e"
+    ],
+    "definition": "",
+    "example": ""
+  },
+  {
+    "term": "intermodal",
+    "variants": [],
+    "tokens": [
+      "i",
+      "n",
+      "t",
+      "e",
+      "r",
+      "m",
+      "o",
+      "d",
+      "a",
+      "l"
+    ],
+    "definition": "",
+    "example": ""
+  }
+]
