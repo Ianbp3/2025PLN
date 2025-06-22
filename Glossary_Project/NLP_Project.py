@@ -52,3 +52,30 @@ unique_terms = list(term_freq.keys())
 print("\nSample output:")
 print(unique_terms[:20])
 
+#Variant Consolidation -----------------------------------------------------------------------
+
+terms = list(filtered_term_freq.keys())
+visited = set()
+clusters = []
+
+for i, term in enumerate(terms):
+    if term in visited:
+        continue
+    cluster = [term]
+    visited.add(term)
+    for j in range(i + 1, len(terms)):
+        other = terms[j]
+        if other not in visited and Levenshtein.distance(term, other) <= 3:
+            cluster.append(other)
+            visited.add(other)
+    clusters.append(cluster)
+
+canonical_map = {}
+for cluster in clusters:
+    canonical = max(cluster, key=lambda x: filtered_term_freq.get(x, 0))
+    canonical_map[canonical] = sorted(set(cluster) - {canonical})
+
+for canonical, variants in list(canonical_map.items())[:5]:
+    print(f"Canonical: '{canonical}'")
+    print(f"Variants: {variants}\n")
+
