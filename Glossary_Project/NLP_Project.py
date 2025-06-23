@@ -87,7 +87,6 @@ for term, freq in filtered_term_freq.items():
     vocab[chars] = freq
 
 def get_stats(vocab):
-    """Count symbol pair frequencies in vocab."""
     pairs = Counter()
     for word, freq in vocab.items():
         symbols = word.split()
@@ -96,7 +95,6 @@ def get_stats(vocab):
     return pairs
 
 def merge_vocab(pair, vocab):
-    """Merge most frequent pair in the vocab."""
     pattern = re.escape(' '.join(pair))
     replacement = ''.join(pair)
     new_vocab = {}
@@ -105,8 +103,7 @@ def merge_vocab(pair, vocab):
         new_vocab[new_word] = vocab[word]
     return new_vocab
 
-# Learn merges
-num_merges = 100  # Increase for better subword formation
+num_merges = 100
 merges = []
 
 for _ in range(num_merges):
@@ -117,7 +114,6 @@ for _ in range(num_merges):
     merges.append(best)
     vocab = merge_vocab(best, vocab)
 
-# Apply BPE
 def apply_bpe(word, merges):
     tokens = list(word) + ['</w>']
     merge_pairs = {pair: ''.join(pair) for pair in merges}
@@ -131,14 +127,13 @@ def apply_bpe(word, merges):
                 break
         if not match:
             break
-        # merge the pair
         i = 0
         while i < len(tokens) - 1:
             if tokens[i] == match[0] and tokens[i + 1] == match[1]:
                 tokens = tokens[:i] + [match[0] + match[1]] + tokens[i + 2:]
                 break
             i += 1
-    return tokens[:-1]  # remove end token
+    return tokens[:-1]
 
 canonical_terms = list(canonical_map.keys())
 
