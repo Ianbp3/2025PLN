@@ -1,6 +1,7 @@
 import json
 import requests
 import time
+import re
 
 with open("glossary.json", "r", encoding="utf-8") as f:
     glossary = json.load(f)
@@ -13,6 +14,7 @@ def query_ollama(term, variants):
         f"You are an expert glossary assistant. Given the glossary term \"{term}\" and a list of possible variants {variants}, "
         "identify only the variants that are legitimate spelling variants, inflections, or abbreviations of the term. "
         "Then generate a concise definition (maximum 40 words) and a short example sentence (maximum 25 words). "
+        "Do not use markdown formatting or code blocks. Only return raw JSON."
         "Respond ONLY in valid JSON format:\n"
         '{\n'
         '  "definition": "<definition here>",\n'
@@ -30,8 +32,11 @@ def query_ollama(term, variants):
 
     if response.status_code == 200:
         try:
-            data = response.json()["response"]
-            if not data.strip():
+            data = response.json()["response"].strip()
+            if data.startswith("```json") or data.startswith("```"):
+                data = data.strip("`")  # removes all backticks
+                data = re.sub(r"^json\s*", "", data, flags=re.IGNORECASE).strip()
+            if not data:
                 print(f"⚠️ Empty response for term '{term}'")
                 return "", "", []
             print(f"📥 Raw response for '{term}': {data}")
