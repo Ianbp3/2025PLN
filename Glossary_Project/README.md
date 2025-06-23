@@ -113,6 +113,8 @@ def apply_bpe(word, merges):
     return tokens[:-1]
 ```
 Evidence:
+
+
 ![Fake Corpus](images/fake_corpus.jpeg)
 ![Successful BPE](images/successful_bpe.jpeg)
 ---
@@ -171,6 +173,8 @@ An interactive terminal interface for exploring the glossary.
 Only terms that have been successfully defined by the LLM are shown.
 
 CLIENT usage examples:
+
+
 ![Help Command](images/help_c.jpeg)
 ![List Command](images/list_c.jpeg)
 ![List Freq Command](images/listf_c.jpeg)
