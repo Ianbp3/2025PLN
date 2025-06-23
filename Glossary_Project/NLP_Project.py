@@ -5,7 +5,6 @@ import nltk
 from nltk.corpus import stopwords
 from rapidfuzz.distance import Levenshtein
 import json
-from collections import defaultdict
 
 #Term Extraction -----------------------------------------------------------------------
 nltk.download('stopwords')

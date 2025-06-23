@@ -34,7 +34,7 @@ def query_ollama(term, variants):
         try:
             data = response.json()["response"].strip()
             if data.startswith("```json") or data.startswith("```"):
-                data = data.strip("`")  # removes all backticks
+                data = data.strip("`")
                 data = re.sub(r"^json\s*", "", data, flags=re.IGNORECASE).strip()
             if not data:
                 print(f"⚠️ Empty response for term '{term}'")
@@ -57,7 +57,7 @@ def query_ollama(term, variants):
 
 for entry in glossary:
     if entry["definition"] and entry["example"]:
-        continue  # Skip if already filled
+        continue
 
     term = entry["term"]
     variants = entry["variants"]
@@ -65,7 +65,7 @@ for entry in glossary:
 
     entry["definition"] = definition
     entry["example"] = example
-    entry["variants"] = real_variants  # Overwrite with filtered list
+    entry["variants"] = real_variants
 
     print(f"✅ {term} — updated with {len(real_variants)} variants.")
     time.sleep(1)
