@@ -44,6 +44,9 @@ term_freq = Counter(filtered_terms)
 min_freq = 2
 filtered_term_freq = {term: freq for term, freq in term_freq.items() if freq >= min_freq}
 
+with open("filtered_term_freq.json", "w", encoding="utf-8") as f:
+    json.dump(filtered_term_freq, f, indent=2)
+
 print("Most common terms:")
 for term, freq in term_freq.most_common(20):
     print(f"{term}: {freq}")
